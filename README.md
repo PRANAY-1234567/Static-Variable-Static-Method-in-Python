@@ -142,4 +142,5 @@ Sample.z = z ✅ (updates class variable)
 
 This project is open-source and free to use.
 
+<img width="566" height="829" alt="image" src="https://github.com/user-attachments/assets/5f83c42f-9183-41f6-94b8-7edc17d84356" />
 
