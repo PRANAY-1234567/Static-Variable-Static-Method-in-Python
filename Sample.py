@@ -17,8 +17,6 @@ class Sample:
     def displayShared():
         print(f"Shared data : {Sample.z}")
 
-
-# Main program
 s1 = Sample()
 s2 = Sample()
 s3 = Sample()
